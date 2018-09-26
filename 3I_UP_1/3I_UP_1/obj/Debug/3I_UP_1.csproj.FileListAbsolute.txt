@@ -1,0 +1,10 @@
+C:\University\3I_UP_1\3I_UP_1\bin\Debug\3I_UP_1.exe.config
+C:\University\3I_UP_1\3I_UP_1\bin\Debug\3I_UP_1.exe
+C:\University\3I_UP_1\3I_UP_1\bin\Debug\3I_UP_1.pdb
+C:\University\3I_UP_1\3I_UP_1\obj\Debug\3I_UP_1.csprojAssemblyReference.cache
+C:\University\3I_UP_1\3I_UP_1\obj\Debug\_3I_UP_1.Form1.resources
+C:\University\3I_UP_1\3I_UP_1\obj\Debug\_3I_UP_1.Properties.Resources.resources
+C:\University\3I_UP_1\3I_UP_1\obj\Debug\3I_UP_1.csproj.GenerateResource.cache
+C:\University\3I_UP_1\3I_UP_1\obj\Debug\3I_UP_1.csproj.CoreCompileInputs.cache
+C:\University\3I_UP_1\3I_UP_1\obj\Debug\3I_UP_1.exe
+C:\University\3I_UP_1\3I_UP_1\obj\Debug\3I_UP_1.pdb
