@@ -1,0 +1,16 @@
+C:\Users\Panda\Desktop\Zad2\Zad2\bin\Debug\Zad2.exe.config
+C:\Users\Panda\Desktop\Zad2\Zad2\bin\Debug\Zad2.exe
+C:\Users\Panda\Desktop\Zad2\Zad2\bin\Debug\Zad2.pdb
+C:\Users\Panda\Desktop\Zad2\Zad2\obj\Debug\Zad2.csprojResolveAssemblyReference.cache
+C:\Users\Panda\Desktop\Zad2\Zad2\obj\Debug\Zad2.Form1.resources
+C:\Users\Panda\Desktop\Zad2\Zad2\obj\Debug\Zad2.Properties.Resources.resources
+C:\Users\Panda\Desktop\Zad2\Zad2\obj\Debug\Zad2.csproj.GenerateResource.Cache
+C:\Users\Panda\Desktop\Zad2\Zad2\obj\Debug\Zad2.exe
+C:\Users\Panda\Desktop\Zad2\Zad2\obj\Debug\Zad2.pdb
+E:\Uni\Trite I-ta\I3_Projects\ExecsiceTwo\Zad2\obj\Debug\Zad2.csprojAssemblyReference.cache
+E:\Uni\Trite I-ta\I3_Projects\ExecsiceTwo\Zad2\obj\Debug\Zad2.Form1.resources
+E:\Uni\Trite I-ta\I3_Projects\ExecsiceTwo\Zad2\obj\Debug\Zad2.Properties.Resources.resources
+E:\Uni\Trite I-ta\I3_Projects\ExecsiceTwo\Zad2\obj\Debug\Zad2.csproj.GenerateResource.cache
+E:\Uni\Trite I-ta\I3_Projects\ExecsiceTwo\Zad2\obj\Debug\Zad2.csproj.CoreCompileInputs.cache
+E:\Uni\Trite I-ta\I3_Projects\ExecsiceTwo\Zad2\obj\Debug\Zad2.exe
+E:\Uni\Trite I-ta\I3_Projects\ExecsiceTwo\Zad2\obj\Debug\Zad2.pdb

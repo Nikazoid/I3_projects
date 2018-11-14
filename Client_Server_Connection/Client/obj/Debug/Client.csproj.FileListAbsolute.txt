@@ -1,0 +1,12 @@
+E:\Uni\Trite I-ta\I3_Projects\Client_Server_Connection\Client\bin\Debug\Client.exe.config
+E:\Uni\Trite I-ta\I3_Projects\Client_Server_Connection\Client\bin\Debug\Client.exe
+E:\Uni\Trite I-ta\I3_Projects\Client_Server_Connection\Client\bin\Debug\Client.pdb
+E:\Uni\Trite I-ta\I3_Projects\Client_Server_Connection\Client\bin\Debug\SimpleTCP.dll
+E:\Uni\Trite I-ta\I3_Projects\Client_Server_Connection\Client\obj\Debug\Client.csprojAssemblyReference.cache
+E:\Uni\Trite I-ta\I3_Projects\Client_Server_Connection\Client\obj\Debug\Client.Properties.Resources.resources
+E:\Uni\Trite I-ta\I3_Projects\Client_Server_Connection\Client\obj\Debug\Client.csproj.GenerateResource.cache
+E:\Uni\Trite I-ta\I3_Projects\Client_Server_Connection\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+E:\Uni\Trite I-ta\I3_Projects\Client_Server_Connection\Client\obj\Debug\Client.csproj.CopyComplete
+E:\Uni\Trite I-ta\I3_Projects\Client_Server_Connection\Client\obj\Debug\Client.exe
+E:\Uni\Trite I-ta\I3_Projects\Client_Server_Connection\Client\obj\Debug\Client.pdb
+E:\Uni\Trite I-ta\I3_Projects\Client_Server_Connection\Client\obj\Debug\Client.Form1.resources

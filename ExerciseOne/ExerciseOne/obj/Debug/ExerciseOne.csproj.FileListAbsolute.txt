@@ -1,0 +1,10 @@
+C:\Users\DMP3\source\repos\ExerciseOne\ExerciseOne\bin\Debug\ExerciseOne.exe.config
+C:\Users\DMP3\source\repos\ExerciseOne\ExerciseOne\bin\Debug\ExerciseOne.exe
+C:\Users\DMP3\source\repos\ExerciseOne\ExerciseOne\bin\Debug\ExerciseOne.pdb
+C:\Users\DMP3\source\repos\ExerciseOne\ExerciseOne\obj\Debug\ExerciseOne.csprojAssemblyReference.cache
+C:\Users\DMP3\source\repos\ExerciseOne\ExerciseOne\obj\Debug\ExerciseOne.Form1.resources
+C:\Users\DMP3\source\repos\ExerciseOne\ExerciseOne\obj\Debug\ExerciseOne.Properties.Resources.resources
+C:\Users\DMP3\source\repos\ExerciseOne\ExerciseOne\obj\Debug\ExerciseOne.csproj.GenerateResource.cache
+C:\Users\DMP3\source\repos\ExerciseOne\ExerciseOne\obj\Debug\ExerciseOne.csproj.CoreCompileInputs.cache
+C:\Users\DMP3\source\repos\ExerciseOne\ExerciseOne\obj\Debug\ExerciseOne.exe
+C:\Users\DMP3\source\repos\ExerciseOne\ExerciseOne\obj\Debug\ExerciseOne.pdb

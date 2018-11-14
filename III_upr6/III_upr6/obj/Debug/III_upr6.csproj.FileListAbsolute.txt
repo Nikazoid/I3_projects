@@ -1,0 +1,29 @@
+C:\Users\George\source\repos\III_upr6\III_upr6\bin\Debug\III_upr6.exe.config
+C:\Users\George\source\repos\III_upr6\III_upr6\bin\Debug\III_upr6.exe
+C:\Users\George\source\repos\III_upr6\III_upr6\bin\Debug\III_upr6.pdb
+C:\Users\George\source\repos\III_upr6\III_upr6\obj\Debug\III_upr6.csprojAssemblyReference.cache
+C:\Users\George\source\repos\III_upr6\III_upr6\obj\Debug\III_upr6.Form1.resources
+C:\Users\George\source\repos\III_upr6\III_upr6\obj\Debug\III_upr6.Properties.Resources.resources
+C:\Users\George\source\repos\III_upr6\III_upr6\obj\Debug\III_upr6.csproj.GenerateResource.cache
+C:\Users\George\source\repos\III_upr6\III_upr6\obj\Debug\III_upr6.csproj.CoreCompileInputs.cache
+C:\Users\George\source\repos\III_upr6\III_upr6\obj\Debug\III_upr6.exe
+C:\Users\George\source\repos\III_upr6\III_upr6\obj\Debug\III_upr6.pdb
+D:\Irena\University\S7_III\III_upr6\III_upr6\bin\Debug\III_upr6.exe.config
+D:\Irena\University\S7_III\III_upr6\III_upr6\obj\Debug\III_upr6.exe
+D:\Irena\University\S7_III\III_upr6\III_upr6\obj\Debug\III_upr6.pdb
+D:\Irena\University\S7_III\III_upr6\III_upr6\obj\Debug\III_upr6.csprojResolveAssemblyReference.cache
+D:\Irena\University\S7_III\III_upr6\III_upr6\obj\Debug\III_upr6.Form1.resources
+D:\Irena\University\S7_III\III_upr6\III_upr6\obj\Debug\III_upr6.Properties.Resources.resources
+D:\Irena\University\S7_III\III_upr6\III_upr6\obj\Debug\III_upr6.csproj.GenerateResource.Cache
+D:\Irena\University\S7_III\III_upr6\III_upr6\bin\Debug\III_upr6.exe
+D:\Irena\University\S7_III\III_upr6\III_upr6\bin\Debug\III_upr6.pdb
+E:\Uni\Trite I-ta\I3_Projects\III_upr6\III_upr6\bin\Debug\III_upr6.exe.config
+E:\Uni\Trite I-ta\I3_Projects\III_upr6\III_upr6\bin\Debug\III_upr6.exe
+E:\Uni\Trite I-ta\I3_Projects\III_upr6\III_upr6\bin\Debug\III_upr6.pdb
+E:\Uni\Trite I-ta\I3_Projects\III_upr6\III_upr6\obj\Debug\III_upr6.csprojAssemblyReference.cache
+E:\Uni\Trite I-ta\I3_Projects\III_upr6\III_upr6\obj\Debug\III_upr6.Form1.resources
+E:\Uni\Trite I-ta\I3_Projects\III_upr6\III_upr6\obj\Debug\III_upr6.Properties.Resources.resources
+E:\Uni\Trite I-ta\I3_Projects\III_upr6\III_upr6\obj\Debug\III_upr6.csproj.GenerateResource.cache
+E:\Uni\Trite I-ta\I3_Projects\III_upr6\III_upr6\obj\Debug\III_upr6.csproj.CoreCompileInputs.cache
+E:\Uni\Trite I-ta\I3_Projects\III_upr6\III_upr6\obj\Debug\III_upr6.exe
+E:\Uni\Trite I-ta\I3_Projects\III_upr6\III_upr6\obj\Debug\III_upr6.pdb

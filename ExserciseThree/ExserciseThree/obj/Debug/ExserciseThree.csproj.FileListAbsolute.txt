@@ -1,0 +1,20 @@
+C:\Users\DMP3\source\repos\ExserciseThree\ExserciseThree\bin\Debug\ExserciseThree.exe.config
+C:\Users\DMP3\source\repos\ExserciseThree\ExserciseThree\bin\Debug\ExserciseThree.exe
+C:\Users\DMP3\source\repos\ExserciseThree\ExserciseThree\bin\Debug\ExserciseThree.pdb
+C:\Users\DMP3\source\repos\ExserciseThree\ExserciseThree\obj\Debug\ExserciseThree.Form1.resources
+C:\Users\DMP3\source\repos\ExserciseThree\ExserciseThree\obj\Debug\ExserciseThree.Properties.Resources.resources
+C:\Users\DMP3\source\repos\ExserciseThree\ExserciseThree\obj\Debug\ExserciseThree.csproj.GenerateResource.cache
+C:\Users\DMP3\source\repos\ExserciseThree\ExserciseThree\obj\Debug\ExserciseThree.csproj.CoreCompileInputs.cache
+C:\Users\DMP3\source\repos\ExserciseThree\ExserciseThree\obj\Debug\ExserciseThree.exe
+C:\Users\DMP3\source\repos\ExserciseThree\ExserciseThree\obj\Debug\ExserciseThree.pdb
+C:\Users\DMP3\source\repos\ExserciseThree\ExserciseThree\obj\Debug\ExserciseThree.csprojAssemblyReference.cache
+E:\Uni\Trite I-ta\I3_Projects\ExserciseThree\ExserciseThree\bin\Debug\ExserciseThree.exe.config
+E:\Uni\Trite I-ta\I3_Projects\ExserciseThree\ExserciseThree\bin\Debug\ExserciseThree.exe
+E:\Uni\Trite I-ta\I3_Projects\ExserciseThree\ExserciseThree\bin\Debug\ExserciseThree.pdb
+E:\Uni\Trite I-ta\I3_Projects\ExserciseThree\ExserciseThree\obj\Debug\ExserciseThree.csprojAssemblyReference.cache
+E:\Uni\Trite I-ta\I3_Projects\ExserciseThree\ExserciseThree\obj\Debug\ExserciseThree.Form1.resources
+E:\Uni\Trite I-ta\I3_Projects\ExserciseThree\ExserciseThree\obj\Debug\ExserciseThree.Properties.Resources.resources
+E:\Uni\Trite I-ta\I3_Projects\ExserciseThree\ExserciseThree\obj\Debug\ExserciseThree.csproj.GenerateResource.cache
+E:\Uni\Trite I-ta\I3_Projects\ExserciseThree\ExserciseThree\obj\Debug\ExserciseThree.csproj.CoreCompileInputs.cache
+E:\Uni\Trite I-ta\I3_Projects\ExserciseThree\ExserciseThree\obj\Debug\ExserciseThree.exe
+E:\Uni\Trite I-ta\I3_Projects\ExserciseThree\ExserciseThree\obj\Debug\ExserciseThree.pdb
